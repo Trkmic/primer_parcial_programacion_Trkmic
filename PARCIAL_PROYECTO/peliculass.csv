@@ -1,0 +1,96 @@
+ID,Título,Género,Año de lanzamiento,Duración,ATP,Plataformas
+1,El origen,Ciencia ficción,2010,148,No,Netflix-Amazon Prime
+2,El padrino,Crimen,1972,175,No,HBO Max-Amazon Prime
+3,Toy story,Animación,1995,81,Si,Disney+
+4,El caballero oscuro,Superhéroes,2008,152,No,HBO Max-Amazon Prime
+5,Tiempos violentos,Crimen,1994,154,No,Netflix
+6,Forrest gump,Drama,1994,142,No,Netflix-Amazon Prime
+7,Matrix,Ciencia ficción,1999,136,No,Netflix-HBO Max
+8,El rey león,Animación,1994,88,Si,Disney+
+9,Gladiador,Acción,2000,155,No,Amazon Prime-HBO Max
+10,Titanic,Romance,1997,195,No,Disney+-Amazon Prime
+11,Star wars: una nueva esperanza,Ciencia ficción,1977,121,Si,Disney+
+12,Parque jurásico,Aventura,1993,127,Si,Amazon Prime-HBO Max
+13,Sueños de libertad,Drama,1994,142,No,Netflix
+14,Los vengadores,Superhéroes,2012,143,Si,Disney+
+15,Volver al futuro,Ciencia ficción,1985,116,Si,Netflix-Amazon Prime
+16,Buscando a nemo,Animación,2003,100,Si,Disney+
+17,Avatar,Ciencia ficción,2009,162,Si,Disney+
+18,Los increíbles,Animación,2004,115,Si,Disney+
+19,El señor de los anillos: la comunidad del anillo,Fantasía,2001,178,Si,Amazon Prime
+20,Harry potter y la piedra filosofal,Fantasía,2001,152,Si,HBO Max
+21,Interestelar,Ciencia ficción,2014,169,No,Netflix-Amazon Prime
+22,Shrek,Animación,2001,90,Si,Netflix-Hulu
+24,Frozen: una aventura congelada,Animación,2013,102,Si,Disney+
+25,Coco,Animación,2017,105,Si,Disney+
+26,Corazón valiente,Histórico,1995,178,No,Netflix-Amazon Prime
+27,Pantera negra,Superhéroes,2018,134,Si,Disney+
+28,Una mente brillante,Biográfico,2001,135,No,Netflix
+29,En busca de la felicidad,Drama,2006,117,Si,Netflix-Amazon Prime
+30,La red social,Biográfico,2010,120,No,Netflix-Amazon Prime
+31,Nace una estrella,Musical,2018,136,No,Netflix-HBO Max
+32,El gran hotel budapest,Comedia dramática,2014,99,Si,Amazon Prime
+33,Perdida,Misterio,2014,149,No,HBO Max
+34,Tiburón,Terror,1975,124,No,Amazon Prime
+35,La vida es bella,Comedia dramática,1997,116,Si,Netflix
+36,Rocky,Deportivo,1976,120,Si,Hulu-Amazon Prime
+37,El silencio de los inocentes,Suspenso,1991,118,No,Netflix-HBO Max
+38,Duro de matar,Acción,1988,132,No,Amazon Prime
+39,Jurassic world,Aventura,2015,124,Si,Netflix-Amazon Prime
+40,Hacia rutas salvajes,Biográfico,2007,148,No,Netflix-Amazon Prime
+41,El lobo de wall street,Biográfico,2013,180,No,Netflix-Amazon Prime
+42,Mad max: furia en el camino,Acción,2015,120,No,HBO Max-Amazon Prime
+43,El exorcista,Terror,1973,122,No,Amazon Prime
+44,Bastardos sin gloria,Bélico,2009,153,No,Netflix-Amazon Prime
+46,¿quién quiere ser millonario?,Drama,2008,120,Si,Netflix
+47,El renacido,Acción,2015,156,No,Amazon Prime-Netflix
+48,La la land: una historia de amor,Musical,2016,128,Si,Netflix-Amazon Prime
+49,Ella,Romance,2013,126,No,Netflix
+50,El show de truman,Drama,1998,103,Si,Netflix-HBO Max
+51,El gran lebowski,Comedia,1998,117,No,Amazon Prime-Netflix
+52,¡huye!,Suspenso,2017,104,No,Netflix-HBO Max
+53,Sin lugar para los débiles,Suspenso,2007,122,No,Netflix-Amazon Prime
+54,Una aventura extraordinaria,Aventura,2012,127,Si,Amazon Prime
+55,Django sin cadenas,Western,2012,165,No,Netflix
+56,Los infiltrados,Policíaco,2006,151,No,Netflix-Amazon Prime
+57,Amélie,Comedia romántica,2001,122,Si,Amazon Prime-Netflix
+58,Eterno resplandor de una mente sin recuerdos,Romance,2004,108,No,Amazon Prime-Netflix
+59,El club de la pelea,Drama,1999,139,No,Amazon Prime-HBO Max
+60,El gran gatsby,Drama,2013,143,Si,Amazon Prime
+61,Amnesia,Suspenso,2000,113,No,Amazon Prime-HBO Max
+62,Logan,Superhéroes,2017,137,No,Disney+
+63,12 años de esclavitud,Histórico,2013,134,No,Amazon Prime-Netflix
+64,Misión rescate,Ciencia ficción,2015,144,Si,Amazon Prime-Netflix
+65,Los 8 más odiados,Western,2015,187,No,Netflix
+66,El gran truco,Misterio,2006,130,No,Amazon Prime-Netflix
+67,Birdman,Comedia dramática,2014,119,No,Amazon Prime-Netflix
+69,Spider-man: un nuevo universo,Animación,2018,117,Si,Netflix
+70,John wick: otro día para matar,Acción,2014,101,No,Amazon Prime-HBO Max
+71,Gravedad,Ciencia ficción,2013,91,No,Amazon Prime-Netflix
+72,El joven manos de tijera,Fantástico,1990,105,Si,Disney+
+73,El señor de los anillos: las dos torres,Fantasía,2002,179,No,Amazon Prime
+74,El resplandor,Terror,1980,146,No,Amazon Prime-HBO Max
+75,Vengadores: endgame,Superhéroes,2019,181,Si,Disney+
+76,El hobbit: un viaje inesperado,Fantasía,2012,169,Si,Amazon Prime
+77,Blade runner 2049,Ciencia ficción,2017,164,No,HBO Max-Amazon Prime
+78,El secreto de sus ojos,Suspenso,2009,129,No,Amazon Prime-Netflix
+79,La llegada,Ciencia ficción,2016,116,Si,Amazon Prime-Netflix
+80,El juego de la fortuna,Deportivo,2011,133,No,Netflix
+81,Mulán,Animación,1998,88,Si,Disney+
+82,Bichos,Animación,1998,95,Si,Disney+
+83,Zootopia,Animación,2016,108,Si,Disney+
+84,Los increíbles 2,Animación,2018,118,Si,Disney+
+86,Toy story 2,Animación,1999,92,Si,Disney+
+87,Buscando a dory,Animación,2016,97,Si,Disney+
+88,Valiente,Animación,2012,93,Si,Disney+
+89,Monsters inc.,Animación,2001,92,Si,Disney+
+90,Enredados,Animación,2010,100,Si,Disney+
+92,Mi villano favorito,Animación,2010,95,Si,Netflix
+93,Kung fu panda,Animación,2008,92,Si,Netflix
+94,La era de hielo,Animación,2002,81,Si,Disney+
+95,La vida secreta de tus mascotas,Animación,2016,87,Si,Netflix
+96,La gran aventura lego,Animación,2014,100,Si,Amazon Prime
+97,Aladdín,Animación,1992,90,Si,Disney+
+98,Cenicienta,Animación,1950,74,Si,Disney+
+99,La sirenita,Animación,1989,83,Si,Disney+
+100,La bella y la bestia,Animación,1991,84,Si,Disney+

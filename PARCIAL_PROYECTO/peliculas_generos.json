@@ -1,0 +1,143 @@
+{
+    "Ciencia ficción": [
+        "El origen",
+        "Matrix",
+        "Star wars: una nueva esperanza",
+        "Volver al futuro",
+        "Avatar",
+        "Interestelar",
+        "Misión rescate",
+        "Gravedad",
+        "Blade runner 2049",
+        "La llegada"
+    ],
+    "Crimen": [
+        "El padrino",
+        "Tiempos violentos"
+    ],
+    "Animación": [
+        "Toy story",
+        "El rey león",
+        "Buscando a nemo",
+        "Los increíbles",
+        "Shrek",
+        "Frozen: una aventura congelada",
+        "Coco",
+        "Spider-man: un nuevo universo",
+        "Mulán",
+        "Bichos",
+        "Zootopia",
+        "Los increíbles 2",
+        "Toy story 2",
+        "Buscando a dory",
+        "Valiente",
+        "Monsters inc.",
+        "Enredados",
+        "Mi villano favorito",
+        "Kung fu panda",
+        "La era de hielo",
+        "La vida secreta de tus mascotas",
+        "La gran aventura lego",
+        "Aladdín",
+        "Cenicienta",
+        "La sirenita",
+        "La bella y la bestia"
+    ],
+    "Superhéroes": [
+        "El caballero oscuro",
+        "Los vengadores",
+        "Pantera negra",
+        "Logan",
+        "Vengadores: endgame"
+    ],
+    "Drama": [
+        "Forrest gump",
+        "Sueños de libertad",
+        "En busca de la felicidad",
+        "¿quién quiere ser millonario?",
+        "El show de truman",
+        "El club de la pelea",
+        "El gran gatsby"
+    ],
+    "Acción": [
+        "Gladiador",
+        "Duro de matar",
+        "Mad max: furia en el camino",
+        "El renacido",
+        "John wick: otro día para matar"
+    ],
+    "Romance": [
+        "Titanic",
+        "Ella",
+        "Eterno resplandor de una mente sin recuerdos"
+    ],
+    "Aventura": [
+        "Parque jurásico",
+        "Jurassic world",
+        "Una aventura extraordinaria"
+    ],
+    "Fantasía": [
+        "El señor de los anillos: la comunidad del anillo",
+        "Harry potter y la piedra filosofal",
+        "El señor de los anillos: las dos torres",
+        "El hobbit: un viaje inesperado"
+    ],
+    "Histórico": [
+        "Corazón valiente",
+        "12 años de esclavitud"
+    ],
+    "Biográfico": [
+        "Una mente brillante",
+        "La red social",
+        "Hacia rutas salvajes",
+        "El lobo de wall street"
+    ],
+    "Musical": [
+        "Nace una estrella",
+        "La la land: una historia de amor"
+    ],
+    "Comedia dramática": [
+        "El gran hotel budapest",
+        "La vida es bella",
+        "Birdman"
+    ],
+    "Misterio": [
+        "Perdida",
+        "El gran truco"
+    ],
+    "Terror": [
+        "Tiburón",
+        "El exorcista",
+        "El resplandor"
+    ],
+    "Deportivo": [
+        "Rocky",
+        "El juego de la fortuna"
+    ],
+    "Suspenso": [
+        "El silencio de los inocentes",
+        "¡huye!",
+        "Sin lugar para los débiles",
+        "Amnesia",
+        "El secreto de sus ojos"
+    ],
+    "Bélico": [
+        "Bastardos sin gloria"
+    ],
+    "Comedia": [
+        "El gran lebowski"
+    ],
+    "Western": [
+        "Django sin cadenas",
+        "Los 8 más odiados"
+    ],
+    "Policíaco": [
+        "Los infiltrados"
+    ],
+    "Comedia romántica": [
+        "Amélie"
+    ],
+    "Fantástico": [
+        "El joven manos de tijera"
+    ]
+}
